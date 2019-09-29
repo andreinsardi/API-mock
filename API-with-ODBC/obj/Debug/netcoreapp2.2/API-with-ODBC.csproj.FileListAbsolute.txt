@@ -1,0 +1,16 @@
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/bin/Debug/netcoreapp2.2/appsettings.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/bin/Debug/netcoreapp2.2/API-with-ODBC.deps.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/bin/Debug/netcoreapp2.2/API-with-ODBC.runtimeconfig.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/bin/Debug/netcoreapp2.2/API-with-ODBC.runtimeconfig.dev.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/bin/Debug/netcoreapp2.2/API-with-ODBC.dll
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/bin/Debug/netcoreapp2.2/API-with-ODBC.pdb
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/obj/Debug/netcoreapp2.2/API-with-ODBC.csprojAssemblyReference.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/obj/Debug/netcoreapp2.2/API-with-ODBC.RazorAssemblyInfo.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/obj/Debug/netcoreapp2.2/API-with-ODBC.RazorAssemblyInfo.cs
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/obj/Debug/netcoreapp2.2/API-with-ODBC.AssemblyInfoInputs.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/obj/Debug/netcoreapp2.2/API-with-ODBC.AssemblyInfo.cs
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/obj/Debug/netcoreapp2.2/API-with-ODBC.RazorTargetAssemblyInfo.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/obj/Debug/netcoreapp2.2/API-with-ODBC.dll
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC/API-with-ODBC/API-with-ODBC/API-with-ODBC/obj/Debug/netcoreapp2.2/API-with-ODBC.pdb
